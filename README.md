@@ -5,7 +5,7 @@
 
 ## Description
 
-I wanted to create an application that takes and stores notes for everyone to use! I was able to showcase my Node.js skills, by using Express.js to build a back-end web server for the application. I also deployed this full-stack application to the Heroku cloud platform.
+I wanted to create an application that anyone can use to write and store notes! I was able to showcase my Node.js skills by using Express.js to build a back-end web server for the application. I also deployed this full-stack application to the Heroku cloud platform.
 
 ## Application
 
