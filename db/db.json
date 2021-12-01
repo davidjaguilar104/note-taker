@@ -6,9 +6,14 @@
       "text": "Test text"
     },
     {
-      "title": "testing id",
-      "text": "give me a new id",
+      "title": "Test Note",
+      "text": "This is a new note.",
       "id": "1"
+    },
+    {
+      "title": "Another Test",
+      "text": "This does work.",
+      "id": "2"
     }
   ]
 }
